@@ -24,4 +24,4 @@
         |--Variety_Of_Boxs_file 百变方块
         |--Resources 图片资源
         
-  [1]:./figure/demo1.jpg
+  [1]:https://github.com/spx1997/GamePlat/blob/master/figure/demo1.jpg
