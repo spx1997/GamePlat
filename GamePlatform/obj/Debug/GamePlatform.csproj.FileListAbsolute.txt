@@ -1,0 +1,432 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\bin\Debug\GamePlatform.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\obj\Debug\GamePlatform.打开网页.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\GamePlatform\GamePlatform\obj\Debug\GamePlatform.pdb
+D:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.config
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.pdb
+D:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe
+D:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.pdb
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+G:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.config
+G:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe
+G:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.pdb
+F:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.config
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.pdb
+F:\GamePlatform\GamePlatform\bin\Debug\db_GamePlat.mdf
+F:\GamePlatform\GamePlatform\bin\Debug\db_GamePlat_log.ldf
+F:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe
+F:\GamePlatform\GamePlatform\bin\Debug\GamePlatform.pdb
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.主页面.resources
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.注册.resources
+F:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.主页面.resources
+D:\GamePlatform\GamePlatform\obj\Debug\GamePlatform.注册.resources
+D:\GamePlatform\GamePlatform\bin\Debug\GamePlatData.mdf
+D:\GamePlatform\GamePlatform\bin\Debug\GamePlatData_log.ldf
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.config
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.pdb
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\bin\Debug\GamePlatform.pdb
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Main.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.register.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Doodle_file.Doodle_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\bin\Debug\GamePlatform.application
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+C:\Users\Administrator\Desktop\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.application
+L:\桌面文件\可视化作业\GamePlatform\GamePlatform\bin\Debug\GamePlatform.exe.config
+L:\桌面文件\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.exe
+L:\桌面文件\可视化作业\GamePlatform\GamePlatform\obj\Debug\GamePlatform.pdb
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\GamePlatform.exe.config
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.exe
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.pdb
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\GamePlatform.application
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\GamePlatform.exe
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\GamePlatform.pdb
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Main.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.register.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.application
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Cus_info_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Tel_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\CSkin.dll
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\bin\Debug\CSkin.xml
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform - 副本 (2)\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\GamePlatform.exe.config
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\GamePlatform.application
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\GamePlatform.exe
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\GamePlatform.pdb
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\CSkin.dll
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\bin\Debug\CSkin.xml
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Cus_info_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Main.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.register.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tel_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.application
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.exe
+L:\桌面文件\可视化作业\GamePlatform_beifen1\GamePlatform\obj\Debug\GamePlatform.pdb
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe.config
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.exe
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.pdb
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.application
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.pdb
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\CSkin.xml
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Cus_info_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Main.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.register.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tel_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+J:\2018_1_11_硬盘\桌面文件\可视化作业\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.application
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe.config
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.exe
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.pdb
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.application
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.pdb
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\CSkin.xml
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csprojResolveAssemblyReference.cache
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Cus_info_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Main.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.register.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tel_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.Cache
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+F:\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.application
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csprojAssemblyReference.cache
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Cus_info_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Main.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.register.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tel_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.cache
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csproj.CoreCompileInputs.cache
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.exe
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.pdb
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe.config
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.application
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.exe
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\GamePlatform.pdb
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\bin\Debug\CSkin.xml
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.application
+G:\2018_6_15学习课件\2153412-石鹏翔-翔乐游戏平台\GamePlatform\obj\Debug\GamePlatform.csproj.CopyComplete
+G:\github_repo\GamePlat\GamePlatform\bin\Debug\GamePlatform.exe.config
+G:\github_repo\GamePlat\GamePlatform\bin\Debug\GamePlatform.exe.manifest
+G:\github_repo\GamePlat\GamePlatform\bin\Debug\GamePlatform.application
+G:\github_repo\GamePlat\GamePlatform\bin\Debug\GamePlatform.exe
+G:\github_repo\GamePlat\GamePlatform\bin\Debug\GamePlatform.pdb
+G:\github_repo\GamePlat\GamePlatform\bin\Debug\CSkin.xml
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.csprojAssemblyReference.cache
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.custominformation.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Cus_info_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Five_file.Five_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.HuaRong_file.HuaRong_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Help.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Knight_flight_chess.Knight_main.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Lian_Look_file.Lian_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Main.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Mine_weeper_file.Mine_Weeper_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Not_login_interface.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Park_file.Park_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Puzzle_file.Puzzle_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Recharge_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.register.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Login_inter.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Snake_file.Snake_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_FrmConfig_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Sokoban_file.Sokoban_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tank_File.Tank_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tel_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Tetris_file.Teris_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Type_file.Type_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Help_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_OF_Box_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.Variety_Of_Boxs_file.Variety_Rank_F.resources
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.cache
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.csproj.CoreCompileInputs.cache
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.exe.manifest
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.application
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.csproj.CopyComplete
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.exe
+G:\github_repo\GamePlat\GamePlatform\obj\Debug\GamePlatform.pdb

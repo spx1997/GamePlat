@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{428C4219-8164-4053-AA43-53CC63455C90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GamePlatform</RootNamespace>
+    <AssemblyName>GamePlatform</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E6296814882E5C9419C9CDE2B08A0F86450EB977</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GamePlatform_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>G:\program安装位置\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Con_code\CustomInfo.cs" />
+    <Compile Include="Con_code\Database.cs" />
+    <Compile Include="Con_code\Data_Game_W.cs" />
+    <Compile Include="Con_code\Data_Game_R.cs" />
+    <Compile Include="Con_code\VerifyCodeImgSimple.cs" />
+    <Compile Include="custominformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="custominformation.Designer.cs">
+      <DependentUpon>custominformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cus_info_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cus_info_F.Designer.cs">
+      <DependentUpon>Cus_info_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Five_file\Boards.cs" />
+    <Compile Include="Five_file\Five_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Five_file\Five_F.Designer.cs">
+      <DependentUpon>Five_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Five_file\Five_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Five_file\Five_Help_F.Designer.cs">
+      <DependentUpon>Five_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Five_file\Five_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Five_file\Five_Rank_F.Designer.cs">
+      <DependentUpon>Five_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Five_file\MyStack.cs" />
+    <Compile Include="Five_file\PC.cs" />
+    <Compile Include="Five_file\Rules.cs" />
+    <Compile Include="Five_file\Stones.cs" />
+    <Compile Include="HuaRong_file\HuaRong_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuaRong_file\HuaRong_F.Designer.cs">
+      <DependentUpon>HuaRong_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HuaRong_file\HuaRong_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuaRong_file\HuaRong_Help_F.Designer.cs">
+      <DependentUpon>HuaRong_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HuaRong_file\HuaRong_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuaRong_file\HuaRong_Rank_F.Designer.cs">
+      <DependentUpon>HuaRong_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Knight_flight_chess\Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Knight_flight_chess\Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Knight_flight_chess\Knight_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Knight_flight_chess\Knight_main.Designer.cs">
+      <DependentUpon>Knight_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lian_Look_file\Lian_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lian_Look_file\Lian_F.Designer.cs">
+      <DependentUpon>Lian_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lian_Look_file\Lian_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lian_Look_file\Lian_Help_F.Designer.cs">
+      <DependentUpon>Lian_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lian_Look_file\Lian_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lian_Look_file\Lian_Rank_F.Designer.cs">
+      <DependentUpon>Lian_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mine_weeper_file\Mine_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mine_weeper_file\Mine_Help_F.Designer.cs">
+      <DependentUpon>Mine_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mine_weeper_file\Mine_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mine_weeper_file\Mine_Rank_F.Designer.cs">
+      <DependentUpon>Mine_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mine_weeper_file\Mine_Weeper_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mine_weeper_file\Mine_Weeper_F.Designer.cs">
+      <DependentUpon>Mine_Weeper_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Park_file\Park_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Park_file\Park_F.Designer.cs">
+      <DependentUpon>Park_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Park_file\Park_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Park_file\Park_Help_F.Designer.cs">
+      <DependentUpon>Park_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Park_file\Park_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Park_file\Park_Rank_F.Designer.cs">
+      <DependentUpon>Park_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Puzzle_file\Puzzle_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puzzle_file\Puzzle_F.Designer.cs">
+      <DependentUpon>Puzzle_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puzzle_file\Puzzle_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puzzle_file\Puzzle_Help_F.Designer.cs">
+      <DependentUpon>Puzzle_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Puzzle_file\Puzzle_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Puzzle_file\Puzzle_Rank_F.Designer.cs">
+      <DependentUpon>Puzzle_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recharge_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recharge_F.Designer.cs">
+      <DependentUpon>Recharge_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Not_login_interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Not_login_interface.Designer.cs">
+      <DependentUpon>Not_login_interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login_inter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_inter.Designer.cs">
+      <DependentUpon>Login_inter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Snake_file\Bean.cs" />
+    <Compile Include="Snake_file\Block.cs" />
+    <Compile Include="Snake_file\Floor.cs" />
+    <Compile Include="Snake_file\Snake.cs" />
+    <Compile Include="Snake_file\Snake_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Snake_file\Snake_F.Designer.cs">
+      <DependentUpon>Snake_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Snake_file\Snake_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Snake_file\Snake_Help_F.Designer.cs">
+      <DependentUpon>Snake_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Snake_file\Snake_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Snake_file\Snake_Rank_F.Designer.cs">
+      <DependentUpon>Snake_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_F.Designer.cs">
+      <DependentUpon>Sokoban_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_FrmConfig_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_FrmConfig_F.Designer.cs">
+      <DependentUpon>Sokoban_FrmConfig_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_Help_F.Designer.cs">
+      <DependentUpon>Sokoban_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sokoban_file\Sokoban_Rank_F.Designer.cs">
+      <DependentUpon>Sokoban_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tank_File\bullet.cs" />
+    <Compile Include="Tank_File\PlaySound.cs" />
+    <Compile Include="Tank_File\Tank.cs" />
+    <Compile Include="Tank_File\TankMap.cs" />
+    <Compile Include="Tank_File\Tank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tank_File\Tank_F.Designer.cs">
+      <DependentUpon>Tank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tank_File\Tank_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tank_File\Tank_Help_F.Designer.cs">
+      <DependentUpon>Tank_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tank_File\Tank_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tank_File\Tank_Rank_F.Designer.cs">
+      <DependentUpon>Tank_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tel_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tel_F.Designer.cs">
+      <DependentUpon>Tel_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tetris_file\Block.cs" />
+    <Compile Include="Tetris_file\Game.cs" />
+    <Compile Include="Tetris_file\Teris_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tetris_file\Teris_Help_F.Designer.cs">
+      <DependentUpon>Teris_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tetris_file\Teris_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tetris_file\Teris_F.Designer.cs">
+      <DependentUpon>Teris_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tetris_file\Teris_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tetris_file\Teris_Rank_F.Designer.cs">
+      <DependentUpon>Teris_Rank_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Type_file\myRandom.cs" />
+    <Compile Include="Type_file\Type_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Type_file\Type_F.Designer.cs">
+      <DependentUpon>Type_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variety_Of_Boxs_file\Variety_Help_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Variety_Of_Boxs_file\Variety_Help_F.Designer.cs">
+      <DependentUpon>Variety_Help_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variety_Of_Boxs_file\Variety_OF_Box_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Variety_Of_Boxs_file\Variety_OF_Box_F.Designer.cs">
+      <DependentUpon>Variety_OF_Box_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variety_Of_Boxs_file\Variety_Rank_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Variety_Of_Boxs_file\Variety_Rank_F.Designer.cs">
+      <DependentUpon>Variety_Rank_F.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="custominformation.resx">
+      <DependentUpon>custominformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cus_info_F.resx">
+      <DependentUpon>Cus_info_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Five_file\Five_F.resx">
+      <DependentUpon>Five_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Five_file\Five_Help_F.resx">
+      <DependentUpon>Five_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Five_file\Five_Rank_F.resx">
+      <DependentUpon>Five_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HuaRong_file\HuaRong_F.resx">
+      <DependentUpon>HuaRong_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HuaRong_file\HuaRong_Help_F.resx">
+      <DependentUpon>HuaRong_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HuaRong_file\HuaRong_Rank_F.resx">
+      <DependentUpon>HuaRong_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Knight_flight_chess\Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Knight_flight_chess\Knight_main.resx">
+      <DependentUpon>Knight_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lian_Look_file\Lian_F.resx">
+      <DependentUpon>Lian_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lian_Look_file\Lian_Help_F.resx">
+      <DependentUpon>Lian_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lian_Look_file\Lian_Rank_F.resx">
+      <DependentUpon>Lian_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mine_weeper_file\Mine_Help_F.resx">
+      <DependentUpon>Mine_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mine_weeper_file\Mine_Rank_F.resx">
+      <DependentUpon>Mine_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mine_weeper_file\Mine_Weeper_F.resx">
+      <DependentUpon>Mine_Weeper_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Not_login_interface.resx">
+      <DependentUpon>Not_login_interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Park_file\Park_F.resx">
+      <DependentUpon>Park_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Park_file\Park_Help_F.resx">
+      <DependentUpon>Park_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Park_file\Park_Rank_F.resx">
+      <DependentUpon>Park_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Puzzle_file\Puzzle_F.resx">
+      <DependentUpon>Puzzle_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recharge_F.resx">
+      <DependentUpon>Recharge_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_inter.resx">
+      <DependentUpon>Login_inter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Snake_file\Snake_F.resx">
+      <DependentUpon>Snake_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Snake_file\Snake_Help_F.resx">
+      <DependentUpon>Snake_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Snake_file\Snake_Rank_F.resx">
+      <DependentUpon>Snake_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sokoban_file\Sokoban_F.resx">
+      <DependentUpon>Sokoban_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sokoban_file\Sokoban_FrmConfig_F.resx">
+      <DependentUpon>Sokoban_FrmConfig_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sokoban_file\Sokoban_Help_F.resx">
+      <DependentUpon>Sokoban_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sokoban_file\Sokoban_Rank_F.resx">
+      <DependentUpon>Sokoban_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tank_File\Tank_F.resx">
+      <DependentUpon>Tank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tank_File\Tank_Help_F.resx">
+      <DependentUpon>Tank_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tank_File\Tank_Rank_F.resx">
+      <DependentUpon>Tank_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tel_F.resx">
+      <DependentUpon>Tel_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tetris_file\Teris_F.resx">
+      <DependentUpon>Teris_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tetris_file\Teris_Help_F.resx">
+      <DependentUpon>Teris_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tetris_file\Teris_Rank_F.resx">
+      <DependentUpon>Teris_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Type_file\Type_F.resx">
+      <DependentUpon>Type_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Variety_Of_Boxs_file\Variety_Help_F.resx">
+      <DependentUpon>Variety_Help_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Variety_Of_Boxs_file\Variety_OF_Box_F.resx">
+      <DependentUpon>Variety_OF_Box_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Variety_Of_Boxs_file\Variety_Rank_F.resx">
+      <DependentUpon>Variety_Rank_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GamePlatform_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\充值.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\个人中心.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\比赛.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\客服.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\密码抱回.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\商店.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\推广.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\元宝兑换.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\longo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timg %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\bbg.png" />
+    <Content Include="Resources\bg.png" />
+    <Content Include="Resources\black.png" />
+    <Content Include="Resources\board.png" />
+    <Content Include="Resources\character\pic_head1\man\1.jpg" />
+    <Content Include="Resources\character\pic_head1\man\2.jpg" />
+    <Content Include="Resources\character\pic_head1\man\3.jpg" />
+    <Content Include="Resources\character\pic_head1\man\4.jpg" />
+    <Content Include="Resources\character\pic_head1\woman\1.jpg" />
+    <Content Include="Resources\character\pic_head1\woman\2.jpg" />
+    <Content Include="Resources\character\pic_head1\woman\3.jpg" />
+    <Content Include="Resources\character\pic_head1\woman\4.jpg" />
+    <Content Include="Resources\chessboard.gif" />
+    <Content Include="Resources\kh.png" />
+    <Content Include="Resources\picture_grade\4.png" />
+    <Content Include="Resources\picture_grade\5.png" />
+    <Content Include="Resources\picture_grade\1.png" />
+    <Content Include="Resources\picture_grade\3.png" />
+    <Content Include="Resources\picture_grade\2.png" />
+    <Content Include="Resources\pic_game\dzyx.jpg" />
+    <Content Include="Resources\pic_game\elsfk.jpg" />
+    <Content Include="Resources\pic_game\hrd.jpg" />
+    <Content Include="Resources\pic_game\hrd2.jpg" />
+    <Content Include="Resources\pic_game\llk1.jpg" />
+    <Content Include="Resources\pic_game\pt.jpg" />
+    <Content Include="Resources\pic_game\qqb.jpg" />
+    <Content Include="Resources\pic_game\sl.jpg" />
+    <Content Include="Resources\pic_game\tcc.jpg" />
+    <Content Include="Resources\pic_game\tcc.png" />
+    <Content Include="Resources\pic_game\tcs1.jpg" />
+    <Content Include="Resources\pic_game\tcs2.jpg" />
+    <Content Include="Resources\pic_game\tcs3.jpg" />
+    <Content Include="Resources\pic_game\tk.jpg" />
+    <Content Include="Resources\pic_game\txz.jpg" />
+    <Content Include="Resources\pic_game\ty.jpg" />
+    <Content Include="Resources\pic_game\wzq.jpg" />
+    <Content Include="Resources\pic_game\xq.jpg" />
+    <Content Include="Resources\pic_game\xxl.jpg" />
+    <Content Include="Resources\pic_game\xxl1.jpg" />
+    <Content Include="Resources\web_game\csbh.jpg" />
+    <Content Include="Resources\web_game\cslm.jpg" />
+    <Content Include="Resources\web_game\kxnc.jpg" />
+    <Content Include="Resources\web_game\seh.jpg" />
+    <Content Include="Resources\web_game\yszl.jpg" />
+    <Content Include="Resources\white.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

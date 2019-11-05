@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="GamePlatform.Properties.Settings.db_GamePlatConnectionString"
+            connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\db_GamePlat.mdf;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="GamePlatform.Properties.Settings.D__GAMEPLATFORM_GAMEPLATFORM_DB_GAMEPLAT_MDFConnectionString"
+            connectionString="Data Source=SC-201707160036;Initial Catalog=D:\GAMEPLATFORM\GAMEPLATFORM\DB_GAMEPLAT.MDF;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
